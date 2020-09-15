@@ -1,0 +1,10 @@
+.error {
+    height:100%;
+    width:50%;
+    position: fixed;
+    color:red;
+    padding-top: 0px;
+    z-index: 0;
+    top:0;
+    overflow-x: hidden;
+}
